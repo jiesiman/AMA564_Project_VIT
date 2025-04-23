@@ -7,3 +7,4 @@ My Runtime Environment Configuration：
 4. pillow 11.1.0
 5. numpy 1.23.5
 6. timm 0.5.4
+The model is too large to upload
